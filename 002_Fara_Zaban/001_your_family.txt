@@ -14,3 +14,6 @@ Name and family name:
     * e.g Linda
 - Your family name, usually called your surname, is the one that the family have.
     * Jane Smith
+
+- Your full name is all the names you have.
+    * e.g Linda Jane Smith
