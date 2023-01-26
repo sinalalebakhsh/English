@@ -84,4 +84,7 @@ When should I use a dictionary?
     Try to be aware of words that you need to look up more than once. 
     These are obviosly key words for you to learn. Write them down with their meanings, together with any example sentences used in the dictionary.
     A good dictionary will also tel you words that collocate or can be used together with them.
-    It is a good idea to make a note of these as well. Remember that some words havemore than one meaning.
+    It is a good idea to make a note of these as well. Remember that some words havemore than one meaning, so check what the unit or exercise is about to make sure you find the correct meaning.
+
+    
+
