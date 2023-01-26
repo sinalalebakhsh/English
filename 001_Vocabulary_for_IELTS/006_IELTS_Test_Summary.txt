@@ -2,3 +2,4 @@ Academic Training Module
 
 Academic Reading (1 hour)
     including the time needed to transfer your answer, there is no extra time given for this.
+    There are three reading passages and 40 questions.
