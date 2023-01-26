@@ -1,6 +1,9 @@
-n. = noun
-v. = verb
-adj. = adjective
-adv. = adverb
-pron. = pronoun
-prep. = preprosition
+n.      = noun
+v.      = verb
+adj.    = adjective
+adv.    = adverb
+pron.   = pronoun
+prep.   = preprosition
+exclam. = exclamation
+det.    = determiner
+conj.   = conjuntion
