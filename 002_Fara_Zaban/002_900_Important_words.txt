@@ -7,3 +7,5 @@ prep.   = preprosition
 exclam. = exclamation
 det.    = determiner
 conj.   = conjuntion
+
+1- a/an (indefinite article)
