@@ -19,4 +19,7 @@ Name and family name:
     * e.g Linda Jane Smith
 
 Talking about your family:
-    My parents got married 25
+    My parents got married 25 years ago.
+    I've got two brothers and sister.
+    So there are six of us in my family.
+    My brothers are twins and they are three years younger than me.
