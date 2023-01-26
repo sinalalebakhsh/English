@@ -93,4 +93,5 @@ How do I learn and revise vocabulary?
     You might like to use a notebook and organise your vocabulary under the following categories:
         * New words to learn
         * Words I need to use more
-        * 
+        * Words I often make mistakes with
+        * Topic words (e.g The Environment; Fuel; Energy; Work etc)
