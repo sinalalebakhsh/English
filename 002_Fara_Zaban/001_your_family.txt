@@ -17,3 +17,6 @@ Name and family name:
 
 - Your full name is all the names you have.
     * e.g Linda Jane Smith
+
+Talking about your family:
+    My parents got married 25
