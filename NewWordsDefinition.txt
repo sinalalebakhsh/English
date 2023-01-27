@@ -46,3 +46,5 @@ synchronization: /siNGkrənəˈzāSH(ə)n/
         clock synchronization between cities
         folder synchronization allows users on different computers to use shared data sources
         the operations required a high degree of synchronization between the parties
+----------------------------------------------------------------------
+indicate: /ˈindəˌkāt/
