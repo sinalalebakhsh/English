@@ -29,3 +29,4 @@ Talking about your family:
     My best friend Pete is an only child; he spends a lot of time with us and he's almost one of the family.
 
 twins = two children born to one mother at the same time
+take after sb = to be similar to in appearance and/or character
