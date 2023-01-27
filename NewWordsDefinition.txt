@@ -42,3 +42,7 @@ voucher: /ˈvaʊ.tʃər/
 synchronization: /siNGkrənəˈzāSH(ə)n/
     the operation or activity of two or more things at the same time or rate.
     e.g "lack of synchronization between the dancers made it look clumsy"
+        easy synchronization with other wireless devices
+        clock synchronization between cities
+        folder synchronization allows users on different computers to use shared data sources
+        the operations required a high degree of synchronization between the parties
