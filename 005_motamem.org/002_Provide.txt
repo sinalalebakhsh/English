@@ -8,4 +8,5 @@
 24  How can you provide value to your customers if you don’t even know them?
 25  Our goal is to provide you with the best possible service.
 26  We need to provide for any problem that can happen.
-27  
+27  This design provides for low power usage.
+28  This contract provides that certain deadlines will be met.
