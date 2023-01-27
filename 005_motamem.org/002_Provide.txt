@@ -11,3 +11,4 @@
 27  This design provides for low power usage.
 28  This contract provides that certain deadlines will be met.
 29  This agreement provides deadlines for completion of the work.
+30  This contract also includes provisions for protecting your internal information.
