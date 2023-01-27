@@ -4,7 +4,7 @@ You're expected to answer the following questions by the end of this lesson:
 3- Are you an only child?
 4- Where were you born?
 5- Where are you originally from?
-6- Are you part of a very close familly?
+6- Are you part of a very close family?
 7- Do you look like your father or mother?
 8- In character, who do you take after?
 9- Can you tell me a short biography og yourself?
@@ -31,3 +31,4 @@ Talking about your family:
 twins = two children born to one mother at the same time
 take after sb = to be similar to in appearance and/or character
 look like sb = when sb's appearance is similar to sb else
+close family = we have a good relationship/see each other a lot
