@@ -8,16 +8,15 @@ You're expected to answer the following questions by the end of this lesson:
 7- Do you look like your father or mother?
 8- In character, who do you take after?
 9- Can you tell me a short biography of yourself?
-
+-+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-
 Name and family name:
 - Your parents give you a first name.
     * e.g Linda
 - Your family name, usually called your surname, is the one that the family have.
     * Jane Smith
-
 - Your full name is all the names you have.
     * e.g Linda Jane Smith
-
+-+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-
 Talking about your family:
     My parents got married 25 years ago.
     I've got two brothers and sister.
@@ -27,16 +26,22 @@ Talking about your family:
     My sister takes after my father in some ways, but she look like my mother.
     We're a close family.
     My best friend Pete is an only child; he spends a lot of time with us and he's almost one of the family.
-
+-+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-
 twins = two children born to one mother at the same time
 take after sb = to be similar to sb in appearance and/or character
 look like sb = when sb's appearance is similar to sb else
 close family = we have a good relationship/see each other a lot
 an only child = without brothers or sisters
-
+-+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-
 spotlight: How old are you?
     Damon is 22 (year old). NOT He has 23 (year)!
     His brother is older than him. He's 23.
     His sister is younger than him. She's 20.
     Alf's oldest in the family.
     Karen's the youngest in the family.
+-+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-+-+--+-
+Point:
+    * I'm originally from America but I live in Canada.
+    *
+
+
