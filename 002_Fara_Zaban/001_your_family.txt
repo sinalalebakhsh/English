@@ -33,3 +33,10 @@ take after sb = to be similar to sb in appearance and/or character
 look like sb = when sb's appearance is similar to sb else
 close family = we have a good relationship/see each other a lot
 an only child = without brothers or sisters
+
+spotlight: How old are you?
+    Damon is 22 (year old). NOT He has 23 (year)!
+    His brother is older than him. He's 23.
+    His sister is younger than him. She's 20.
+    Alf's oldest in the family.
+    Karen's the youngest in the family.
