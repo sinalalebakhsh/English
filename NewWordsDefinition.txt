@@ -38,3 +38,5 @@ voucher: /ˈvaʊ.tʃər/
     You will be sent a voucher with your ticket.
     The cards come with vouchers for money off fuel.
     Gift vouchers can be redeemed with this voucher but cannot be used to purchase gift vouchers.
+----------------------------------------------------------------------
+synchronization:
