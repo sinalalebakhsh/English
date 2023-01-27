@@ -25,4 +25,7 @@ Talking about your family:
     My brothers are twins and they are three years younger than me.
     I'm the oldest and I take after my father.
     My sister takes after my father in some ways, but she look like my mother.
-    We're a close family
+    We're a close family.
+    My best friend Pete is an only child; he spends a lot of time with us and he's almost one of the family.
+
+twins = two children born to one mother at the same time
