@@ -30,3 +30,8 @@ cooperation: /kəʊˌɒp.ərˈeɪ.ʃən/
         The company produces computers in cooperation with a German firm.
         We acted in a spirit of cooperation.
         I need your cooperation to make this event a success.
+----------------------------------------------------------------------
+voucher: /ˈvaʊ.tʃər/
+    a piece of paper that can be used to pay for particular goods or services or that allows you to pay less than the usual price for them:
+    e.g:
+    The voucher is valid between July and December and entitles you to ten percent off all overseas flights.
