@@ -1,9 +1,8 @@
 1   improve, reclaim, modify, correct, rectify, revise
 2   revise, reconsider
-3   revise
-4   republish, revise
-5   revise
-6   inquire, inspect, investigate, revise
+3   republish, revise
+4   inquire, inspect, investigate, revise
 -----------------------------------------------------------------------
-7   frequent
+5   frequent, repeated, repetitious, reiterated, endless, frequentative
+6  repeat, replicate, iterate, frequent, ingeminate, reduplicate
 -----------------------------------------------------------------------
