@@ -39,4 +39,6 @@ voucher: /ˈvaʊ.tʃər/
     The cards come with vouchers for money off fuel.
     Gift vouchers can be redeemed with this voucher but cannot be used to purchase gift vouchers.
 ----------------------------------------------------------------------
-synchronization:
+synchronization: /siNGkrənəˈzāSH(ə)n/
+    the operation or activity of two or more things at the same time or rate.
+    e.g "lack of synchronization between the dancers made it look clumsy"
