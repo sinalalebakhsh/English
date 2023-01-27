@@ -22,3 +22,11 @@ meet, met:
     Tom met Mary on his way to school.
     I've never met her. 
     She denied having met him. 
+----------------------------------------------------------------------
+cooperation: /kəʊˌɒp.ərˈeɪ.ʃən/
+    the act of working together with someone or doing what they ask you:
+        This documentary was made with the cooperation of the victims' families.
+        There's very little cooperation between the two countries.
+        The company produces computers in cooperation with a German firm.
+        We acted in a spirit of cooperation.
+        I need your cooperation to make this event a success.
