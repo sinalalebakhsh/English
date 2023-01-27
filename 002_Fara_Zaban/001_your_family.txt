@@ -43,5 +43,7 @@ spotlight: How old are you?
 Point:
     * I'm originally from America but I live in Canada.
     * I was born and raised in America.
+    * I was born in America but raised in Canada.
+    * I was born in America, but my family moved to Canada when I was 3.
 
 
