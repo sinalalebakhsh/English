@@ -3,3 +3,7 @@
 33  Standing still
 34  Stand in front of me.
 35  I will proudly stand with you.
+36  Our manager always stands behind us.
+37  Where do you stand in this conflict?
+38  We stand for downsizing.
+39  My offer still stands.
