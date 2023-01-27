@@ -35,3 +35,6 @@ voucher: /ˈvaʊ.tʃər/
     a piece of paper that can be used to pay for particular goods or services or that allows you to pay less than the usual price for them:
     e.g:
     The voucher is valid between July and December and entitles you to ten percent off all overseas flights.
+    You will be sent a voucher with your ticket.
+    The cards come with vouchers for money off fuel.
+    Gift vouchers can be redeemed with this voucher but cannot be used to purchase gift vouchers.
