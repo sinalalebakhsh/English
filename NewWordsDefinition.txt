@@ -1,7 +1,17 @@
-accurate:
+accurate:  /ˈæk.jə.rət/
     correct and without any mistakes
     an accurate machine
     an accurate description
     The figures they have used are just not accurate.
     Her novel is an accurate reflection of life in Spain.
     We hope to become more accurate in predicting earthquakes.
+
+forecast:  /ˈfɔː.kɑːst/
+    a statement of what is judged likely to happen in the future, especially in connection with a particular situation, or the expected weather conditions:
+    economic forecasts
+    The weather forecast said it was going to rain later today.
+    
+    Synonym:
+        prognosis
+        the disease has a poor prognosis.
+        it is very difficult to make an accurate prognosis.
