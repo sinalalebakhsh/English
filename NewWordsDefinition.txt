@@ -5,13 +5,20 @@ accurate:  /ˈæk.jə.rət/
     The figures they have used are just not accurate.
     Her novel is an accurate reflection of life in Spain.
     We hope to become more accurate in predicting earthquakes.
-
+---------------------------------------------------------------------
 forecast:  /ˈfɔː.kɑːst/
     a statement of what is judged likely to happen in the future, especially in connection with a particular situation, or the expected weather conditions:
     economic forecasts
     The weather forecast said it was going to rain later today.
-    
     Synonym:
         prognosis
         the disease has a poor prognosis.
         it is very difficult to make an accurate prognosis.
+---------------------------------------------------------------------
+meet, met:
+    I met Tom in front of the store.
+    She might have met him yesterday.
+    met an old man near the station.
+    Tom met Mary on his way to school.
+    I've never met her. 
+    She denied having met him. 
