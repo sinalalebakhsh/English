@@ -4,3 +4,4 @@
 20  This website provides information about city coffee-shops.
 21  We are looking for the best way to provide support to the frequent customers.
 22  This report provides accurate information about our financial situation.
+23  We will check the situation and provide further details.
