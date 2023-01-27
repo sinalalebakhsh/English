@@ -8,10 +8,10 @@ exclam. = exclamation
 det.    = determiner
 conj.   = conjuntion
 
-1- a/an (indefinite article)
+1-  a/an (indefinite article)
 2-  About (prep./ adv.)
-3-
-4-
+3-  Above (prep./ adv.)
+4-  
 5-
 6-
 7-
