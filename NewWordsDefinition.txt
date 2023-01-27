@@ -52,5 +52,6 @@ indicate: /ˈindəˌkāt/
     suggest as a desirable or necessary course of action.
     e.g sales indicate a growing market for such art
 ----------------------------------------------------------------------
-Comparision: /kəmˈparɪs(ə)n/
-    
+Comparsion: /kəmˈparɪs(ə)n/
+    a consideration or estimate of the similarities or dissimilarities between two things or people.
+    e.g "they drew a comparison between Gandhi's teaching and that of other teachers"
