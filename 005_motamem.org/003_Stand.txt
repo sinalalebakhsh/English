@@ -7,3 +7,7 @@
 37  Where do you stand in this conflict?
 38  We stand for downsizing.
 39  My offer still stands.
+40  Stand up what you believe in.
+41  I can’t stand the way he talks to me.
+42  I can’t stand the boss.
+43  From where I stand, it’s better to leave this project right now.
