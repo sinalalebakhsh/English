@@ -9,3 +9,6 @@ I am happy.
 He is a American. I am Iranian.
 I eat lunch at noon everyday.
 She eats lunch ar 2pm everyday.
+We drink coffee every morning.
+They leave work at 5pm.
+He start work at 11am.
