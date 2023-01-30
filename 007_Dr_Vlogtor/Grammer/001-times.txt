@@ -15,3 +15,6 @@ He start work at 11am.
 
 
 فاعل + فعل (حالت اصلی و ساده) + بقیه جمله که بستگی به فعل دارد.
+Exp:
+I read a book everyday.
+I walk to work everyday.
