@@ -57,3 +57,5 @@
 |       a consideration or estimate of the similarities or dissimilarities between two things or people.
 |       e.g "they drew a comparison between Gandhi's teaching and that of other teachers"
 |----------------------------------------------------------------------
+|   twins:
+|       two childern born to one mother at the same time
