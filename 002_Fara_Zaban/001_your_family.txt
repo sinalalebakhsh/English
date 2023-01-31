@@ -58,3 +58,5 @@ You're expected to answer the following questions by the end of this lesson:
 |   Marilyn Monroe was an only child from a single-parent family, but she lived with foster parents 
 |   until she was seven, and then she was adopted by her mother's best friend.
 |   She got married at sixteen, and she got divorced three times.
+|----------------------------------------------------------------------------------------------
+|   An only child: a child with no brothers or sisters.
