@@ -81,4 +81,7 @@
 |   Ancestor:
 |       a person in your family who lived a long time ago.
 |----------------------------------------------------------------------
+|   Immigrant:
+|       a person who comes to a foreign country to live there.
+|----------------------------------------------------------------------
 |
