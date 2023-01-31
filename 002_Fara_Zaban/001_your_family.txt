@@ -98,3 +98,5 @@ You're expected to answer the following questions by the end of this lesson:
 |----------------------------------------------------------------------
 |   Previous:
 |       happening before the one you are talking about.
+|----------------------------------------------------------------------
+|   Generation:
