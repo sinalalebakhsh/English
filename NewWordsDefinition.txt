@@ -78,4 +78,7 @@
 |   Royal:
 |       relating to a king or queen.
 |----------------------------------------------------------------------
+|   Ancestor:
+|       a person in your family who lived a long time ago.
+|----------------------------------------------------------------------
 |
