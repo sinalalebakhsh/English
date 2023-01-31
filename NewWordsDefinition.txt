@@ -69,3 +69,5 @@
 |   close family:
 |       we have good relationship/see each other a lot.
 |----------------------------------------------------------------------
+|   an only child:
+|       without brothers or sisters.
