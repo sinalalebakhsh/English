@@ -45,5 +45,6 @@ You're expected to answer the following questions by the end of this lesson:
 |    * I was born and raised in America.
 |    * I was born in America but raised in Canada.
 |    * I was born in America, but my family moved to Canada when I was 3.
-
+|----------------------------------------------------------------------------------------------
+|   In some parts of the world, couples may live together but do not get married.
 
