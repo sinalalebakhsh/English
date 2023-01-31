@@ -10,3 +10,6 @@
 |------------------------------------------------------------------------------------------
 |   Are you an only child?
 |   No, before me I had a sister. and after me are two brothers.
+|------------------------------------------------------------------------------------------
+|   Where were you born?
+|   I was born in Capital of Iran. that name is Tehran.
