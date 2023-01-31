@@ -33,4 +33,10 @@
 |   Can you tell me a short biography of yourself?
 |   Yes. I'a Sina.
 |   I'm from Iran.
-|   I had normal life. 
+|   I had normal life.
+|   The economic situation of my parents was normal.
+|   So I had to work for my goal.
+|   I have about 10 years of experience working in confectionery and programming.
+|   Of course, these two fields of work have nothing to do with each other,
+|    and the reason was that I needed money to buy a laptop and programming equipment.
+|   I also have a great talent in sculpting, which I always neglected. 
