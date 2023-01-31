@@ -62,3 +62,5 @@ You're expected to answer the following questions by the end of this lesson:
 |   An only child: a child with no brothers or sisters.
 |----------------------------------------------------------------------------------------------
 |   single parent: a mother or fother who looks after their children alone.
+|----------------------------------------------------------------------------------------------
+|   foster parent: sb who looks after another person's child in their home for a time.
