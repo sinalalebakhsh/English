@@ -84,4 +84,5 @@
 |   Immigrant:
 |       a person who comes to a foreign country to live there.
 |----------------------------------------------------------------------
-|
+|   Emigate from ... to ...:
+|       leave your country in order to live in another.
