@@ -75,4 +75,7 @@
 |   Be related to sb:
 |       be in the same family as sb. Noun.relative SYN.relation
 |----------------------------------------------------------------------
-|   
+|   Royal:
+|       relating to a king or queen.
+|----------------------------------------------------------------------
+|
