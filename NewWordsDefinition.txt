@@ -63,4 +63,5 @@
 |   take after sb:
 |       to be similar to in appearance and/or character.
 |----------------------------------------------------------------------
-|   
+|   look like sb:
+|       when sb's appearance is similar to sb else.
